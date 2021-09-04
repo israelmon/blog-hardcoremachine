@@ -101,7 +101,7 @@ Por ejemplo, tal como una propiedad representa un activo el cual tiene un valor 
 
 Los beneficios para la parte prestadora es decir el banco, esta brindada por un pago mensual con intereses que son acumulables si no se paga, en el caso de una plataforma descentralizada, existirán inversionistas que están dispuestos a prestar sus dolares, a través de una transacción uno a uno a una criptomoneda estable (como un cripto-dolar) y recibir los intereses que los deudores pagarán por el uso del dinero prestado, el interés aumentará en el tiempo y el deudor deberá pagar para que no aumente, hasta que esta llegue a cero y pueda retomar su bitcoin, el puede decidir pagar cuando quiera, pero tendrá el riesgo de que los intereses lleguen a un tope y pierda su garantía. Los inversionistas que decidan prestar en dolares no toman el riesgo de la volatibilidad del bitcoin, manteniendo intereses estables en función del valor del dolar.
 
-Esto permite a cualquier persona participar como inversor o deudor, aumentando los beneficios para las partes en comparación a uno con intermediarios y los montos pueden ser los que cada uno determine, todo irá a un poso y las ganancias serán iguales para todos.
+Esto permite a cualquier persona participar como inversor o deudor, aumentando los beneficios para las partes en comparación a uno con intermediarios y los montos pueden ser los que cada uno determine, todo irá a un poso y los porcentajes de ganancias serán iguales para todos.
 
 Estas plataformas descentralizadas nacieron con el nombre de DAO (Descentralized Autonomous Organization), la primera plataforma nació el 2016 y obtuvo una inversión de 150 millones de dólares en ether (20 dolares en ese tiempo, hoy está llegando a los 4000), sin embargo la plataforma fue hackeada y fueron sustraídos al menos 50 millones de dólares, esto llevó a que Buterin decidiera romper el código de Ethereum para devolver el dinero, mientras un 90% estuvo de acuerdo, existió un 10% que no lo estuvo y continuó el código original rebautizando el nombre a Ethereum classic.
 
@@ -123,7 +123,7 @@ En el caso del salvador existirá un comercio abierto al uso del bitcoin y si bi
 
 **El Salvador, el pulgarcito del mundo, nos enseñará a vivir en el mundo globalizado que somos y que muchos aún no han notado.**
 
-## Segundao.la
+## **Segundao.la**
 
 Es todo este interés el que permite el nacimiento de este proyecto y comenzar nuestra documentación presencial desde el mismo salvador y entregar de primera mano, el valor que este pequeño país nos puede entregar. 
 
