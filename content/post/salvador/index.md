@@ -14,12 +14,6 @@ date: "2021-09-07T00:00:00Z"
 authors:
 - admin
 
-tags:
-- DEFI
-
-
-categories:
-- DEFI
 
 ---
 
