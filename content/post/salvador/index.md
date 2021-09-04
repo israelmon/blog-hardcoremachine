@@ -23,22 +23,19 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: '
+  caption: 'Mapa del salvador'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Defi
 
 categories:
-- Demo
-- 教程
+- Defi
 ---
 Desde antes que los números existiesen los seres humanos somos conscientes de las apuestas al futuro, los dados tienen puntos, porque en aquel tiempo los números no existían, todos estamos haciendo apuestas menos o más arriesgadas constantemente, al emprender un negocio o decidir que shampoo comprar nos puede otorgar beneficios o perdidas en comparación a una inversión distinta.
 El sistema financiero se rige por lo que conocemos como el dinero, un recurso que no se puede utilizar como materia prima, ni tampoco ser consumido, siendo utilizado exclusivamente como medio de cambio entre activos, esto desde tiempos inmemoriales.
