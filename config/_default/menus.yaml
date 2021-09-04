@@ -4,20 +4,20 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: 'https://beta.segundao.la'    
+  - name: /home
+    url: 'home'    
     weight: 10
   - name: Blog
     url: '#'
     weight: 15
   - name: Cursos
-    url: 'cursos'    
+    url: '/cursos'    
     weight: 20
   - name: Videos
-    url: 'https://beta.segundao.la/videos'
+    url: '/videos'
     weight: 25
   - name: 'Artistas'
-    url: 'https://beta.segundao.la/artistas'
+    url: '/artistas'
     weight: 30 
 
 # Link to a PDF of your resume/CV from the menu.
