@@ -11,7 +11,7 @@ main:
     url: '#'
     weight: 15
   - name: Cursos
-    url: 'https://blog.segundao.la/cursos'    
+    url: 'cursos'    
     weight: 20
   - name: Videos
     url: 'https://beta.segundao.la/videos'
