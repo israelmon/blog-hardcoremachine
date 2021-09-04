@@ -53,7 +53,7 @@ La oferta y demanda regula el valor de un activo, el primer desastre financiero 
 
 Pocos meses después de este evento comienza a gestarse lo que hoy es conocido como el bitcoin, basado en un algoritmo de bloques y la prueba de trabajo que permite beneficiar a quienes entreguen su computadora para mantener el funcionamiento de este algoritmo, mientras exista un computador en el mundo que mantenga los bloques originados, el bitcoin seguirá existiendo. 
 
-Los inconvenientes del bitcoin están relacionados con el consumo energético, el tiempo y el costo de la transacción, este último más bajo que algunos servicios financieros actuales, pero a un costo mayor cuando los montos de las transacciones son bajos. Mientras el costo de cada transacción puede llegar a ser gratis, los mineros priorizan las comisiones más altas, además el precio del bitcoin ha ido aumentando. En el caso del tiempo, una transacción demora al menos 8 minutos, que es lo que normalmente demora en procesar un bloque, puede llegar a más tiempo si la comisión es muy baja.
+Los inconvenientes del bitcoin están relacionados con el consumo energético, el tiempo y el costo de la transacción, este último más bajo que algunos servicios financieros actuales, pero a un costo mayor cuando los montos de las transacciones son bajos. Mientras el costo de cada transacción puede llegar a ser gratis, los mineros priorizan las comisiones más altas que son en una moneda en constante aumento. En el caso del tiempo, una transacción demora al menos 8 minutos, que es lo que normalmente demora en procesar un bloque, puede llegar a más tiempo si la comisión es muy baja.
 
 La cadena de bloques entrega un premio a quién resuelva un problema matemático, aunque cualquier persona que ponga su computador a funcionar puede ganar dicho premio, normalmente se crean agrupaciones que reparten el premio si alguno de los nodos o computadoras resuelve el problema. Además del premio los mineros reciben las comisiones pagadas por las transacciones, este sistema es conocido como Prueba de trabajo (Proof of work), la cual permite crear un modelo de compensaciones más democrático.
 
@@ -71,17 +71,17 @@ Es posible firmar una transacción en la red bitcoin solo con la clave anotada e
 
 ## **DEFI**
 
-El camino de las tecnología blockchain aceleró la banca digital en los países desarrollados y en vías de serlo, disminuyendo los costos de operación y aumentando en marketing y experiencia de usuario, sin embargo en algunos países en sub desarrollo, donde la inversión bancaria no es tan acelerada, el uso de la red descentralizada ha ido en aumento, permitiendo a los usuarios decidir qué red utilizarán de acuerdo al anonimato, costos de transacción o velocidad de esta, de ahí la posibilidad que muchos negocios ilícitos puedan ser usados en estas plataformas, sin embargo, para algunos países esta puede llegar a ser su única opción dada la devaluación de su moneda local, de ahí el interés no solo del Salvador de usar el bitcoin como moneda legal.
+El camino de las tecnología blockchain aceleró la banca digital en los países desarrollados y en vías de serlo, disminuyendo los costos de operación, aumentando en marketing, experiencia de usuario y por consecuencia ampliando la bancarización de la población, sin embargo en algunos países en sub desarrollo, donde la inversión bancaria no es tan acelerada, el uso de la red descentralizada ha ido en aumento, permitiendo a los usuarios decidir qué red utilizarán de acuerdo al anonimato, costos de transacción o velocidad de esta, de ahí la posibilidad que muchos negocios ilícitos puedan ser usados en estas plataformas, sin embargo, para algunos países esta puede llegar a ser su única opción dada la devaluación de su moneda local, de ahí el interés no solo del Salvador de usar el bitcoin como moneda legal.
 
 ### El Código abierto
 
 Hace muchas décadas atrás nacía la dupla de Linus Torvalds y Richard Stallman, quienes entregaron el primer sistema operativo con código completamente abierto, permitiendo a todo el mundo comenzar desde una copia del programa de cualquier persona que esté dispuesto a ceder su código por el bien de la comunidad. 
 
-Esto no solo ha traído el interés del ser humano común y corriente, sino también el de grandes corporaciones quienes han ido liberando sus programas, para que la comunidad cada vez más grande, colaboré en su mejora, todo el código fuente del bitcoin es completamente de código abierto, es la comunidad quienes van mejorando los diferentes algoritmos relacionados, de esta manera podemos tener la certeza de la transparencia del modelo. 
+Esto no solo ha traído el interés del ser humano común y corriente, sino también el de grandes corporaciones quienes han ido liberando sus programas, para que la comunidad cada vez más grande, colaboré en su mejora, todo el código fuente del bitcoin es completamente de código abierto, es la comunidad quienes van mejorando los diferentes algoritmos relacionados, de esta manera podemos tener la certeza de la transparencia del modelo. Algunas monedas como bitcoin cash y Litecoin comenzaron a partir del código fuente del bitcoin. 
 
 ### El dinero inflacionario
 
-Hace 50 años Richard Nixón cambió las reglas del juego del dólar estadounidense, dejando de ser respaldado por el oro y haciéndolo inflacionario, es decir que su valor solo será respaldado por quién quiera más tenerlo e imprimiendo en función de ello, la eficiencia en las transacciones en esta moneda y su posicionamiento globalizado genera un valor que en el presente todos quieren. 
+Hace 50 años Richard Nixón cambió las reglas del juego del dólar estadounidense, dejando de ser respaldado por el oro y haciéndolo inflacionario, es decir que su valor solo será respaldado por quién quiera más tenerlo e imprimiendo en función de ello, la eficiencia en las transacciones en esta moneda y su posicionamiento globalizado ha permitido sostener un valor estable hasta ahora. 
 
 
 En el caso del bitcoin, solo existen 21 millones (lo que hace al bitcoin no ser inflacionario), en los inicios de la moneda muchos no tomaron muy en serio el valor que tenía y perdieron sus claves privadas, por tanto, hoy solo quedan poco más de quince millones de la criptomoneda más popular del mundo, la escasez de esta moneda hará que tener un bitcoin pueda llegar a ser el nuevo millón de dólares.
@@ -89,12 +89,11 @@ En el caso del bitcoin, solo existen 21 millones (lo que hace al bitcoin no ser 
 ### Satoshis
 
 1 Bitcoin son 100 millones de satoshis, a diferencia del dólar que solo son cien centavos, esto abre la puerta a la valorización de activos que quizás hoy no valorizamos, activos generalmente digitales que no nos signifiquen mucho y estemos dispuestos a ofrecer por las emociones que nos despiertan por un valor pequeño, hoy 19.86 satoshis representan un centavo de dolar.
-
-. 
+ 
 
 ### Ethereum y el DEFI
 
-Vitalik Buterin dio origen a la red Ethereum y la moneda del mismo nombre, a diferencia del bitcoin, Ethereum permite crear reglas en las transacciones a través de los contratos digitales. Tal como en el mundo real, si llegamos a un acuerdo entre partes, debemos determinar las reglas de ese acuerdo, en caso de no hacerlo debe existir una garantía, como una hipoteca, en el cual una propiedad representada como un activo con un valor comercial, es entregada como garantía por un monto de dinero.
+Vitalik Buterin dio origen a la red Ethereum y la moneda del mismo nombre, a diferencia del bitcoin, Ethereum permite crear reglas en las transacciones a través de los contratos digitales. Tal como en el mundo real si llegamos a un acuerdo entre partes, debemos determinar las reglas de este, en caso de no cumplir debe existir una garantía. Como el caso de una hipoteca, en el cual una propiedad representada como un activo con un valor comercial, es entregada como garantía por un monto de dinero.
 
 La libertad en los contratos de la red Ethereum permitió el nacimiento de muchas monedas y plataformas descentralizadas para administrarlas o intercambiarlas.
 
@@ -111,7 +110,7 @@ Ethereum al igual que el bitcoin utiliza el modelo de repartición de prueba de 
 
 Ethereum 2 (se espera en 2022) es la promesa de cambio de un modelo de Prueba de trabajo (POW) a uno Prueba de que eres parte (POS), llegando a esa circunstancia, las comisiones deberían bajar drásticamente y el valor de Ethereum aumentar ostensiblemente.
 
-Mientras no aparezca Ethereum 2 y el hype que puede llegar a despertar, existen otros blockchain POS que permiten hacer las mismas operaciones financieras descentralizadas pero con costos menores de comisión y menor tiempo en las transacciones, en algunos casos utilizan el mismo lenguaje de Ethereum para crear sus contratos (solidity), por tanto es posible pasar en menor tiempo un proyecto existente a ese nuevo blockchain, como es el caso de Binance o Polygon, y también existen nuevos proyectos como Cardano que utiliza el lenguaje de programación Haskell para crear sus contratos y fue iniciado por uno de los creadores de Ethereum, creadose en una perspectiva de mejora frente a este.
+Mientras no aparezca Ethereum 2 y el hype que puede llegar a despertar, existen otros blockchain POS que permiten hacer las mismas operaciones financieras descentralizadas pero con costos menores de comisión y menor tiempo en las transacciones, en algunos casos utilizan el mismo lenguaje de Ethereum para crear sus contratos (solidity), por tanto es posible pasar en menor tiempo un proyecto existente a ese nuevo blockchain, como es el caso de Binance o Polygon, y también existen nuevos proyectos como Cardano que utiliza el lenguaje de programación Haskell para crear sus contratos y fue iniciado por uno de los creadores de Ethereum, creadose en una perspectiva diferente de mejora.
 
 La red lightning network también permite disminuír los costos para pasar valores entre diferentes cadenas de bloques, utilizando su red para la compra y venta desde distintas redes, como puede ser ethereum, polygon, cardano, binance, etc. [FixedFloat](https://fixedfloat.com/), es uno de los primeros DAO en permitir el uso de lightning network para pasar monedas desde un blockchain a otro, las comisiones son más mucho más bajas que otros exchanges.
 
@@ -119,7 +118,7 @@ La red lightning network también permite disminuír los costos para pasar valor
 
 Know your customer es el termino financiero para saber la información detallada de un cliente, permitiendo a los bancos conocer más o menos información conforme a la ley de cada país. 
 
-En el caso del salvador existirá un comercio abierto al uso del bitcoin y si bien la autorización de las transacciones es completamente privada, la visión de todas estas es pública, para el salvador tener registrados a sus ciudadanos, le permitirá saber su comportamiento financiero y hacer prestamos conforme se establezcan ciertas condiciones y analizar con mayor detalle el beneficio para sus ciudadanos. Para quienes vemos desde afuera, podemos ver el volumen de las transacciones por zona geográfica, esperando que el salvador puede liberar las cuentas por sector y poder analizar con mayor detalle el comportamiento de ese hermoso país, los análisis que se pueden hacer son oro puro para los países que planean seguir al salvador y también para la estrategia de las países desarrollados.
+En el caso del salvador existirá un comercio abierto al uso del bitcoin y si bien la autorización de las transacciones es completamente privada, la visión de todas estas es pública, para el salvador tener registrados a sus ciudadanos, le permitirá saber su comportamiento financiero y hacer prestamos conforme se establezcan ciertas condiciones, permitiendo utilizar como garantía el historial financiero y analizar con mayor detalle el beneficio para sus ciudadanos. Para quienes vemos desde afuera, podemos ver el volumen de las transacciones por zona geográfica, esperando que el salvador puede liberar las cuentas por sector y poder analizar con mayor detalle el comportamiento, los análisis que se pueden hacer son oro puro para los países que planean seguir al salvador y también para la estrategia de las países desarrollados.
 
 
 **El Salvador, el pulgarcito del mundo, nos enseñará a vivir en el mundo globalizado que somos y que muchos aún no han notado.**
