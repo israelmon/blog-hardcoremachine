@@ -17,8 +17,6 @@ lastmod: "2021-09-07T00:00:00Z"
 # Is this an unpublished draft?
 draft: false
 
-# Show this page in the Featured widget?
-featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
