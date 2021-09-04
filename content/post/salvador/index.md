@@ -38,7 +38,7 @@ categories:
 - Defi
 ---
 
-| *** PENDIENTE DE EDICIÓN***|
+| *** PENDIENTE DE EDICIÓN ***|
 |:---:|
 |*Este artículo está en proceso de revisión, el contenido es solo a razón de revisión y de edición, no es definitivo*|
 
