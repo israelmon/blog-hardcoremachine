@@ -3,7 +3,7 @@ title: El Salvador un experimento al futuro que no puede ir mal
 subtitle: DEFI en el pulgarcito del mundo
 
 # Summary for listings and search engines
-summary: Artículo introductorio al fascinante mundo de las criptomonedas.
+summary: Artículo introductorio al fascinante mundo de las criptomonedas
 
 # Link this post with a project
 projects: []
