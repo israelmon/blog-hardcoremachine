@@ -65,7 +65,7 @@ Todo radica en una segunda capa sobre la cadena de bloques del bitcoin, llamada 
 
 ### Una billetera para guardar tus claves
 
-Una billetera se basa en el concepto de clave privada y clave pública, la clave privada permite firmar una transacción y por tanto dar veracidad a esta a través de la encriptación, mientras que la clave pública da origen a tu dirección dentro del blockchain, haciendo una analogía, podríamos decir que si existiese una caja fuerte y  guardamos algo en ella con nuestra clave privada, solo la abriría la llave pública, por tanto quién la abra sabrá quién la guardó y si alguien guardará algo con la llave pública, solo quién tenga la llave privada lo podrá sacar, hermoso!.
+Una billetera se basa en el concepto de clave privada y clave pública, la clave privada permite firmar una transacción y por tanto dar veracidad a esta a través de la encriptación, mientras que la clave pública da origen a tu dirección dentro del blockchain, haciendo una analogía, podríamos decir que si existiese una caja fuerte y  guardamos algo en ella con nuestra clave privada, solo la abriría la llave pública, por tanto quién la abra sabrá quién la guardó y si alguien guardar algo con la llave pública, solo quién tenga la llave privada lo podrá sacar, hermoso!.
 
 Es posible firmar una transacción en la red bitcoin solo con la clave anotada en algún lugar, en una billetera virtual de un celular, computador o con una billetera física, esta última en un dispositivo especialmente dispuesto para la seguridad de nuestras claves. En el caso de la red lightning hoy solo es posible a través de wallets virtuales, no es recomendado mantener altos montos en la red lightning, la red lightning es joven en relación con el bitcoin, hay un riesgo mayor.
 
@@ -112,7 +112,7 @@ Ethereum 2 (se espera en 2022) es la promesa de cambio de un modelo de Prueba de
 
 Mientras no aparezca Ethereum 2 y el hype que puede llegar a despertar, existen otros blockchain POS que permiten hacer las mismas operaciones financieras descentralizadas pero con costos menores de comisión y menor tiempo en las transacciones, en algunos casos utilizan el mismo lenguaje de Ethereum para crear sus contratos (solidity), por tanto es posible pasar en menor tiempo un proyecto existente a ese nuevo blockchain, como es el caso de Binance o Polygon, y también existen nuevos proyectos como Cardano que utiliza el lenguaje de programación Haskell para crear sus contratos y fue iniciado por uno de los creadores de Ethereum, creadose en una perspectiva diferente de mejora.
 
-La red lightning network también permite disminuír los costos para pasar valores entre diferentes cadenas de bloques, utilizando su red para la compra y venta desde distintas redes, como puede ser ethereum, polygon, cardano, binance, etc. [FixedFloat](https://fixedfloat.com/), es uno de los primeros DAO en permitir el uso de lightning network para pasar monedas desde un blockchain a otro, las comisiones son más mucho más bajas que otros exchanges.
+La red lightning network también permite disminuír los costos para pasar valores entre diferentes cadenas de bloques, utilizando su red para la compra y venta desde distintas redes, como puede ser ethereum, polygon, cardano, binance, etc. [FixedFloat](https://fixedfloat.com/), es uno de los primeros DAO en permitir el uso de lightning network para pasar monedas desde un blockchain a otro, las comisiones son mucho más bajas que otros exchanges.
 
 ## **KYC**
 
