@@ -9,10 +9,10 @@ summary: Articulo introductorio al fascinante mundo de las criptomonedas.
 projects: []
 
 # Date published
-date: "2021-09-13T00:00:00Z"
+date: "2021-9-13T00:00:00Z"
 
 # Date updated
-lastmod: "2021-09-13T00:00:00Z"
+lastmod: "2021-9-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
