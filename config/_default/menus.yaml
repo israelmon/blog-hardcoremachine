@@ -5,15 +5,13 @@
 
 main:
   - name: Home
-    url: 'https://beta.segundao.la'
-    target: ''
+    url: 'https://beta.segundao.la'    
     weight: 10
   - name: Blog
     url: '#'
     weight: 15
   - name: Cursos
-    url: 'https://beta.segundao.la/cursos'
-    target: ''
+    url: 'https://blog.segundao.la/cursos'    
     weight: 20
   - name: Videos
     url: 'https://beta.segundao.la/videos'
