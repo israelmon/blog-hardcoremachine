@@ -20,9 +20,23 @@ draft: false
 # Show this page in the Featured widget?
 featured: true
 
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'test'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
+authors:
+- admin
+
+tags:
+- DEFI
+
+categories:
+- DEFI
 ---
-
 Desde antes que los números existiesen los seres humanos somos conscientes de las apuestas al futuro, los dados tienen puntos, porque en aquel tiempo los números no existían, todos estamos haciendo apuestas menos o más arriesgadas constantemente, al emprender un negocio o decidir que shampoo comprar nos puede otorgar beneficios o perdidas en comparación a una inversión distinta.
 El sistema financiero se rige por lo que conocemos como el dinero, un recurso que no se puede utilizar como materia prima, ni tampoco ser consumido, siendo utilizado exclusivamente como medio de cambio entre activos, esto desde tiempos inmemoriales.
 La oferta y demanda regula el valor de un activo, el primer desastre financiero vino de los tulipanes, una burbuja como hoy es conocido por la jerga actual, donde el valor de estos cayó a un precio que produjo las quiebras de muchos inversionistas, hasta el año 2008 en la crisis sub-prime donde la complejidad financiera (y la falta de eficiencia) hizo caer a millones de inversionistas. 
