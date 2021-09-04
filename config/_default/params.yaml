@@ -70,7 +70,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: es-es
 
 # Site features
 
@@ -81,20 +81,20 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
+  repo_url: 'https://github.com/ale-hubix/blog-segundao.la'
+  content_dir: 'content'
+  repo_branch: master
   editable:
     page: false
-    post: false
+    post: true
     book: false
 show_related:
-  book: true
-  page: false
+  book: false
+  page: true
   post: true
-  project: true
-  publication: true
-  event: true
+  project: false
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -120,6 +120,7 @@ projects:
 breadcrumb:
   page_types:
     book: true
+    post: true
 comments:
   provider: ''
   commentable:
