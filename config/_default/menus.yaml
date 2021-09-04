@@ -6,19 +6,19 @@
 main:
   - name: Home
     url: 'https://beta.segundao.la'
-    weight: 30
+    weight: 10
   - name: Blog
-    url: 'https://blog.segundao.la'
-    weight: 25
+    url: '#'
+    weight: 15
   - name: Cursos
     url: 'https://beta.segundao.la/cursos'
     weight: 20
   - name: Videos
     url: 'https://beta.segundao.la/videos'
-    weight: 15
-  - name: 'artistas'
+    weight: 25
+  - name: 'Artistas'
     url: 'https://beta.segundao.la/artistas'
-    weight: 10 
+    weight: 30 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
