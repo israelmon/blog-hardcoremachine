@@ -28,16 +28,16 @@
 
 [[redirects]]
   from = "/videos"
-  to =   "https://beta.segundao.la/videos"
+  to =   "https://beta.segundao.la/videos.html"
   status = 301
 
 [[redirects]]
   from = "/cursos"
-  to =   "https://beta.segundao.la/cursos"
+  to =   "https://beta.segundao.la/cursos.html"
   status = 301
 
 
 [[redirects]]
   from = "/artistas"
-  to =   "https://beta.segundao.la/artistas"
+  to =   "https://beta.segundao.la/artistas.html"
   status = 301
