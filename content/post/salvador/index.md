@@ -1,20 +1,8 @@
 ---
 title: El Salvador un experimento al futuro que no puede ir mal
 subtitle: DEFI en el pulgarcito del mundo.
-
-# Summary for listings and search engines
 summary: Artículo introductorio al fascinante mundo de las criptomonedas.
-
-
-
-# Date published
 date: "2021-09-07T00:00:00Z"
-
-
-authors:
-- admin
-
-
 ---
 
 Desde antes que los números existiesen los seres humanos somos conscientes de las apuestas al futuro, los dados tienen puntos, porque en aquel tiempo los números no existían, todos estamos haciendo apuestas menos o más arriesgadas constantemente, al emprender un negocio o decidir que shampoo comprar nos puede otorgar beneficios o perdidas en comparación a una inversión distinta.
