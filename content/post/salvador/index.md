@@ -1,9 +1,9 @@
 ---
 title: El Salvador un experimento al futuro que no puede ir mal
-subtitle: DEFI en el pulgarcito del mundo
+subtitle: DEFI en el pulgarcito del mundo.
 
 # Summary for listings and search engines
-summary: Articulo introductorio al fascinante mundo de las criptomonedas
+summary: Articulo introductorio al fascinante mundo de las criptomonedas.
 
 # Link this post with a project
 projects: []
@@ -20,23 +20,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: true
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'test'
-  focal_point: ""
-  placement: 2
-  preview_only: false
-
-authors:
-- admin
-
-# tags:
-# - DEFI
-
-
-# categories:
-# - DEFI
 
 ---
 
