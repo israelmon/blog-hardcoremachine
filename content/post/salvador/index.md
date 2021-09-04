@@ -38,7 +38,7 @@ categories:
 - Defi
 ---
 
-| *** ### PENDIENTE DE EDICIÓN***|
+| *** PENDIENTE DE EDICIÓN***|
 |:---:|
 |*Este artículo está en proceso de revisión, el contenido es solo a razón de revisión y de edición, no es definitivo*|
 
@@ -71,7 +71,7 @@ Es posible firmar una transacción en la red bitcoin solo con la clave anotada e
 
 ## **DEFI**
 
-El camino de las tecnología blockchain aceleró la banca digital en los países desarrollados y en vías de serlo, disminuyendo los costos de operación y aumentando en marketing y experiencia de usuario, sin embargo en algunos países en sub desarrollo, donde la inversión bancaria no es tan acelerada, el uso de la red descentralizada ha ido en aumento, permitiendo a los usuarios decidir qué red utilizarán de acuerdo al anonimato, costos de transacción o velocidad de esta, de ahí la posibilidad que muchos negocios ilícitos puedan ser usados en estas plataformas.
+El camino de las tecnología blockchain aceleró la banca digital en los países desarrollados y en vías de serlo, disminuyendo los costos de operación y aumentando en marketing y experiencia de usuario, sin embargo en algunos países en sub desarrollo, donde la inversión bancaria no es tan acelerada, el uso de la red descentralizada ha ido en aumento, permitiendo a los usuarios decidir qué red utilizarán de acuerdo al anonimato, costos de transacción o velocidad de esta, de ahí la posibilidad que muchos negocios ilícitos puedan ser usados en estas plataformas, sin embargo, para algunos países esta puede llegar a ser su única opción dada la devaluación de su moneda local, de ahí el interés no solo del Salvador de usar el bitcoin como moneda legal.
 
 ### El Código abierto
 
@@ -84,38 +84,42 @@ Esto no solo ha traído el interés del ser humano común y corriente, sino tamb
 Hace 50 años Richard Nixón cambió las reglas del juego del dólar estadounidense, dejando de ser respaldado por el oro y haciéndolo inflacionario, es decir que su valor solo será respaldado por quién quiera más tenerlo e imprimiendo en función de ello, la eficiencia en las transacciones en esta moneda y su posicionamiento globalizado genera un valor que en el presente todos quieren. 
 
 
-Solo existen 21 millones de bitcoins  (lo que hace al bitoin no ser inflacionario), en los inicios de la moneda muchos no tomaron muy en serio el valor que tenía y perdieron sus claves privadas, por tanto, hoy solo quedan poco más de quince millones de la criptomoneda más popular del mundo, la escasez de esta moneda hará que tener un bitcoin pueda llegar a ser el nuevo millón de dólares.
+En el caso del bitcoin, solo existen 21 millones (lo que hace al bitoin no ser inflacionario), en los inicios de la moneda muchos no tomaron muy en serio el valor que tenía y perdieron sus claves privadas, por tanto, hoy solo quedan poco más de quince millones de la criptomoneda más popular del mundo, la escasez de esta moneda hará que tener un bitcoin pueda llegar a ser el nuevo millón de dólares.
 
 ### Satoshis
 
-1 Bitcoin son 100 millones de satoshis, a diferencia del dólar que solo son cien centavos, esto abre la puerta a la valorización de activos que quizás hoy no valorizamos, activos generalmente digitales que no nos signifiquen mucho y estemos dispuestos a ofrecer por las emociones que nos despiertan por un valor pequeño, hoy 19.86 satoshis representan un centavo de dolar
+1 Bitcoin son 100 millones de satoshis, a diferencia del dólar que solo son cien centavos, esto abre la puerta a la valorización de activos que quizás hoy no valorizamos, activos generalmente digitales que no nos signifiquen mucho y estemos dispuestos a ofrecer por las emociones que nos despiertan por un valor pequeño, hoy 19.86 satoshis representan un centavo de dolar.
 
 . 
 
 ### Ethereum y el DEFI
 
-Vitalik Buterin dio origen a la red Ethereum y la moneda del mismo nombre, a diferencia del bitcoin, Ethereum permite crear reglas en las transacciones, a través de los contratos digitales. Tal como en el mundo real, si llegamos a un acuerdo entre partes, debemos determinar las reglas de ese acuerdo, en caso de no hacerlo debe existir una garantía, como una hipoteca, en el cual la propiedad como activo con un valor comercial, es entregada como garantía por un monto de dinero.
+Vitalik Buterin dio origen a la red Ethereum y la moneda del mismo nombre, a diferencia del bitcoin, Ethereum permite crear reglas en las transacciones a través de los contratos digitales. Tal como en el mundo real, si llegamos a un acuerdo entre partes, debemos determinar las reglas de ese acuerdo, en caso de no hacerlo debe existir una garantía, como una hipoteca, en el cual la propiedad como activo con un valor comercial, es entregada como garantía por un monto de dinero.
+
 La libertad en los contratos de la red Ethereum permitió el nacimiento de muchas monedas y plataformas descentralizadas para administrarlas o intercambiarlas.
 
 Por ejemplo, tal como una propiedad representa un activo el cual tiene un valor que puede aumentar, el bitcoin también, si nosotros no quisiéramos perder nuestros bitcoins porque consideramos que su valor en el futuro aumentará podemos usar una plataforma donde pondremos nuestros bitcoins en garantía a través de un contrato digital, en el que se especifica en que casos se puede llegar a perder tus bitcoins, los intereses y en que moneda se hará el préstamo, hoy existe el interés de que los prestamos se hagan en monedas que utilicen algoritmos y den garantías que su valor se mantendrá en el mismo valor de un activo físico, como el dólar, el oro, la plata, etc. Generalmente se utilizará una moneda que mantenga el valor del dólar, apostando a la devalorización de esta frente al bitcoin, tal como en el caso de la propiedad apostamos a la valorización frente a los intereses del préstamo y la moneda misma. 
 
 Los beneficios para la parte prestadora es decir el banco, esta brindada por un pago mensual con intereses que son acumulables si no se paga, en el caso de una plataforma descentralizada, existirán inversionistas que están dispuestos a prestar sus dolares, a través de una transacción uno a uno a una criptomoneda estable (como un cripto-dolar) y recibir los intereses que los deudores pagarán por el uso del dinero prestado, el interés aumentará en el tiempo y el deudor deberá pagar para que no aumente, hasta que esta llegue a cero y pueda retomar su bitcoin, el puede decidir pagar cuando quiera, pero tendrá el riesgo de que los intereses lleguen a un tope y pierda su garantía.
 
-Esto permite a cualquier persona participar como inversor o deudor, aumentando los beneficios para las partes en comparación a uno con intermediarios y los montos pueden ser los que cada uno determine, todo irá a un poso y las ganancias serán iguales para todos. 
+Esto permite a cualquier persona participar como inversor o deudor, aumentando los beneficios para las partes en comparación a uno con intermediarios y los montos pueden ser los que cada uno determine, todo irá a un poso y las ganancias serán iguales para todos.
+
+
 Estas plataformas descentralizadas nacieron con el nombre de DAO (Descentralized Autonomous Organization), la primera plataforma nació el 2016 y obtuvo una inversión de 150 millones de dólares en ether (20 dolares en ese tiempo, hoy está llegando a los 4000), sin embargo la plataforma fue hackeada y fueron sustraídos al menos 50 millones de dólares, esto llevó a que Buterin decidiera romper el código de Ethereum para devolver el dinero, mientras un 90% estuvo de acuerdo, existió un 10% que no lo estuvo y continuó el código original rebautizando el nombre a Ethereum classic.
 
 
-Ethereum al igual que el bitcoin utiliza el modelo de repartición de prueba de trabajo (POW), esto presenta las mismas dificultades mencionadas anteriormente altos costos de comisión, transacciones no instantáneas y un alto consumo energético, sin embargo, para el blockchain de ethereum los valores de las transacciones son solo números, por tanto no utiliza porcentajes de estos valores para determinar sus comisiones, esto hace que sea justificable pagar las altas comisiones en casos de altos montos, sin embargo, para quienes ofrezcan bajos montos es prohibitivo, una transacción puede llegar a los 100 dolares.
+Ethereum al igual que el bitcoin utiliza el modelo de repartición de prueba de trabajo (POW), esto presenta las mismas dificultades mencionadas anteriormente altos costos de comisión, transacciones no instantáneas y un alto consumo energético, sin embargo, para el blockchain de ethereum los valores de las transacciones son solo números, por tanto no utiliza porcentajes de estos valores para determinar sus comisiones, esto hace que sea justificable pagar las altas comisiones en casos de altos montos, sin embargo, para quienes ofrezcan bajos montos es prohibitivo, una transacción puede llegar a los 100 dolares en 2021.
 
 Ethereum 2 (se espera en 2022) es la promesa de cambio de un modelo de Prueba de trabajo (POW) a uno Prueba de que eres parte (POS), llegando a esa circunstancia, las comisiones deberían bajar drásticamente y el valor de Ethereum aumentar ostensiblemente.
 
-Mientras no aparezca Ethereum 2 y el hype que llegue a despertar, existen otros blockchain POS que permiten hacer las mismas operaciones financieras descentralizadas pero con costos menores de comisión y menor tiempo en las transacciones, en algunos casos utilizan el mismo lenguaje de Ethereum para crear sus contratos (solidity), por tanto es posible pasar en menor tiempo un proyecto existente a ese nuevo blockchain, como es el caso de Binance o Polygon, y también existen nuevos proyectos como Cardano que utiliza el lenguaje de programación Haskell para crear sus contratos y fue iniciado por uno de los creadores de Ethereum, permitiendo beneficios frente a Ethereum, habiéndose creado desde una nueva perspectiva.
+Mientras no aparezca Ethereum 2 y el hype que puede llegar a despertar, existen otros blockchain POS que permiten hacer las mismas operaciones financieras descentralizadas pero con costos menores de comisión y menor tiempo en las transacciones, en algunos casos utilizan el mismo lenguaje de Ethereum para crear sus contratos (solidity), por tanto es posible pasar en menor tiempo un proyecto existente a ese nuevo blockchain, como es el caso de Binance o Polygon, y también existen nuevos proyectos como Cardano que utiliza el lenguaje de programación Haskell para crear sus contratos y fue iniciado por uno de los creadores de Ethereum, permitiendo beneficios frente a Ethereum, habiéndose creado desde una nueva perspectiva.
 
 La red lightning network también permite disminuír los costos para pasar valores entre diferentes cadenas de bloques, utilizando su red para la compra y venta desde distintas redes, como puede ser ethereum, polygon, cardano, binance, etc. [FixedFloat](https://fixedfloat.com/), es uno de los primeros DAO en permitir el uso de lightning network para pasar monedas desde un blockchain a otro.
 
 ## **KYC**
 
 Know your customer es el termino financiero para saber la información detallada de un cliente, permitiendo a los bancos conocer más o menos información conforme a la ley de cada país. 
+
 En el caso del salvador existirá un comercio abierto al uso del bitcoin y si bien la autorización de las transacciones es completamente privada, la visión de todas estas es completamente pública, para el salvador tener registrados a sus ciudadanos, le permitirá saber su comportamiento financiero y hacer prestamos conforme se establezcan los condiciones de estos y analizar con mayor detalle el beneficio para sus ciudadanos. Para quienes vemos desde afuera, podemos ver el volumen de las transacciones por zona geográfica, sin embargo el salvador puede liberar las cuentas por sector y poder analizar con mayor detalle el comportamiento de ese hermoso país, los análisis que se pueden hacer son oro puro para los países que planean seguir al salvador y también para la estrategia de las países desarrollados.
 
 
