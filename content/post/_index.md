@@ -1,5 +1,5 @@
 ---
-title: Nuevas Entradas
+title: Blog
 cms_exclude: true
 
 # View.
