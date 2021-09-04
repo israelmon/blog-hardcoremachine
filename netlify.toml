@@ -19,3 +19,25 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+
+[[redirects]]
+  from = "/home"
+  to =   "https://beta.segundao.la"
+  status = 301
+
+[[redirects]]
+  from = "/videos"
+  to =   "https://beta.segundao.la/videos"
+  status = 301
+
+[[redirects]]
+  from = "/cursos"
+  to =   "https://beta.segundao.la/cursos"
+  status = 301
+
+
+[[redirects]]
+  from = "/artistas"
+  to =   "https://beta.segundao.la/artistas"
+  status = 301
