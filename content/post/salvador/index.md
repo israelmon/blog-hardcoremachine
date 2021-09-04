@@ -38,9 +38,9 @@ categories:
 - Defi
 ---
 
-# ***PENDIENTE DE EDICIÓN***
-
-*Este artículo está en proceso de revisión, el contenido es solo a razón de revisión y de edición, no es definitivo*
+|# ***PENDIENTE DE EDICIÓN***|
+|:---:|
+|*Este artículo está en proceso de revisión, el contenido es solo a razón de revisión y de edición, no es definitivo*|
 
 
 Desde antes que los números existiesen los seres humanos somos conscientes de las apuestas al futuro, los dados tienen puntos, porque en aquel tiempo los números no existían, todos estamos haciendo apuestas menos o más arriesgadas constantemente, al emprender un negocio o decidir que shampoo comprar nos puede otorgar beneficios o perdidas en comparación a una inversión distinta.
