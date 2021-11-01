@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
+theme: hardcore-machine
+day_night: false
 font: ''
 font_size: L
 
@@ -76,7 +76,7 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: 'https://github.com/ale-hubix/blog-segundao.la'
+  repo_url: 'https://github.com/israelmon/blog-hardcoremachine'
   content_dir: 'content'
   repo_branch: master
   editable:

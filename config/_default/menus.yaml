@@ -10,15 +10,13 @@ main:
   - name: Blog
     url: '#'
     weight: 15
-  - name: Cursos
-    url: '/cursos'    
+  - name: Eventos
+    url: '/eventos'    
     weight: 20
-  - name: Videos
-    url: '/videos'
+  - name: Galarías
+    url: '/galerias'
     weight: 25
-  - name: 'Artistas'
-    url: '/artistas'
-    weight: 30 
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

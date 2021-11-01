@@ -6,18 +6,21 @@ title: Alejandro
 superuser: true
 
 # Role/position/tagline
-role: Fundador segundao.la y ex-profesor de la gran universidad de valparaíso.
+role: Canal de tecnología para las mentes creativas.
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Una primera ola centralizada, una segunda DEFI.
+bio: Lector de la vida, creativo de corazón, amante del pueblo y la música.
 
 # Interests to show in About widget
 interests:
-- Economía y Finanzas descentralizadas
+- Economía y Finanzas
 - Programación
 - Inteligencia Artificial
 - Experiencia de usuario
+- Planes de Negocios
+- Música en Vivo
+- Marketing
 
 
 
@@ -39,10 +42,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ale@segundao.la"
+email: "alejandroiglesias@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Buscando conocimiento!!
+Desde la villa El romero en las compañías, en conjunto con un grupo de amigos, con gran conocimiento y espíritu de participación, buscando a través de la música, el arte y la cultura cambiar el paradigma social hacía una comunidad donde los principios, la ética y el respeto sean un eje para nuestras nuevas generaciones.

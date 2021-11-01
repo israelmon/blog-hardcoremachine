@@ -23,17 +23,17 @@
 
 [[redirects]]
   from = "/home"
-  to =   "https://beta.segundao.la"
+  to =   "https://www.hardcoremachine.cl"
   status = 301
 
 [[redirects]]
-  from = "/videos"
-  to =   "https://beta.segundao.la/videos.html"
+  from = "/eventos"
+  to =   "https://www.hardcoremachine.cl/eventos.html"
   status = 301
 
 [[redirects]]
-  from = "/cursos"
-  to =   "https://beta.segundao.la/cursos.html"
+  from = "/galerias"
+  to =   "https://www.hardcoremachine.cl/galerias.html"
   status = 301
 
 
