@@ -20,6 +20,10 @@
   [plugins.inputs]
     debug = true
 
+[[redirects]]
+  from = "/"
+  to =   "https://www.hardcoremachine.cl"
+  status = 301
 
 [[redirects]]
   from = "/home"
