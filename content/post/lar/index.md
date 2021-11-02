@@ -62,6 +62,8 @@ No puedo negar que pensaba en el desorden que podría existir una vez que comenz
 
 La consigna del evento estaba clara, Pucho mencionaba la importancia del contenido de la música que tenía que estar en la R y no iba a permitir que no fuese así, un mensaje positivo y de rabia necesaria para que cada una de las personas que estuvieran en el evento no solo sea un consumidor, sino también una vela para la propagación del mensaje, de no olvidar las injusticias, de recordar que el pobre es solo defendido desde la rebeldía de una juventud agotada, olvidada y estigmatizada, consciencia de la realidad sistemática que ha llevado a que hasta hace no muy poco, se llevara el mensaje "Chile Despertó" a cada rincón de nuestro país, hoy a punto de ser olvidado por la pandemia, los toques de queda y una estrategia comunicacional que amenaza la nueva constitución y la dignidad de las personas.
 
+![la criticarte](https://lar-images.hardcoremachine.cl/media/large/la%20r/arte/DSC_5711%20(2).JPG)
+
 El festival de la R, no fué solo un evento notable con pocos recursos, sino un punto de partida para quienes no queremos olvidar las injusticias recientes y llevar a través de la música una consciencia colectiva que nos haga personas con principios, valores y consciencia hacia nuestros pares, un pueblo sin memoria es un pueblo sin futuro.
 
 
