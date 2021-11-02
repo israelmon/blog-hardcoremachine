@@ -23,7 +23,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Mapa del salvador'
+  caption: 'Calchaqi'
   focal_point: ""
   placement: 2
   preview_only: false
